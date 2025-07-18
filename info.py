@@ -3,14 +3,14 @@ import time
 
 class Config(object):
     # Pyrogram Client
-    API_ID    = int(os.environ.get("API_ID", "21803165"))  # ⚠️ Required
-    API_HASH  = os.environ.get("API_HASH", "05e5e695feb30e25bef47484cc006da7") # ⚠️ Required
+    API_ID    = int(os.environ.get("API_ID", "20114039"))  # ⚠️ Required
+    API_HASH  = os.environ.get("API_HASH", "87297b8f3cc8fc9bbce591ad30da5896") # ⚠️ Required
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "8143908013:AAFeEKUkBd7ZzoOxFQmjRTX2tQlHR0pjo6M") # ⚠️ Required
     
     # Other Configs
     BOT_START_TIME = time.time()
-    OWNER    = int(os.environ.get("OWNER", "7088898436"))  # ⚠️ Required
-    SUDO = list(map(int, os.environ.get("SUDO", "7219634390 7088898436").split()))    # ⚠️ Required
+    OWNER    = int(os.environ.get("OWNER", "8172163893"))  # ⚠️ Required
+    SUDO = list(map(int, os.environ.get("SUDO", "8172163893").split()))    # ⚠️ Required
     # Web Response Config
     WEBHOOK = bool(os.environ.get("WEBHOOK", True))
     PORT = int(os.environ.get("PORT", "8000"))
@@ -96,7 +96,7 @@ class Txt(object):
 
 <b>✦ » Tʜɪs Bᴏᴛ ɪs ғᴏʀ ᴛᴏ ʀᴇᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴏʀ ɢʀᴏᴜᴘ ɪɴ ᴍᴀss ʟᴇᴠᴇʟ ᴛʜʀᴏᴜɢʜ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴄᴄᴏᴜɴᴛ sᴇssɪᴏɴ sᴛʀɪɴɢ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ ɢᴇɴᴇʀᴀᴛᴇ ʙʏ :- <a href=t.me/king_string_session_bot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b> 
 
-<b>✦ » Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ :- <a href=t.me/ll_ALPHA_BABY_lll>ᴀʟᴘʜᴀ ʙᴀʙʏ</a></b>
+<b>✦ » Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ :- <a href=t.me/Thebhumihar>ᴀʟᴘʜᴀ ʙᴀʙʏ</a></b>
 """
 
     HELP_MSG = """
@@ -132,7 +132,7 @@ class Txt(object):
 
     ABOUT_MSG = """
 **- 𝖬ʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>**
-**- 𝖢ʀᴇᴀᴛᴏʀ : <a href=t.me/ll_ALPHA_BABY_lll>⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭꯭̽🥂꯭༎꯭ 𓆪꯭ </a>**
+**- 𝖢ʀᴇᴀᴛᴏʀ : <a href=t.me/Thebhumihar>⎯᪵፝֟፝𝘽𝙃𝙐𝙈𝙄𝙃𝘼𝙍/a>**
 **- 𝖫ɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ**
 **- 𝖫ᴀɴɢᴜᴀɢᴇ : 𝖯ʏᴛʜᴏɴ 𝟥**
 **- 𝖣ᴀᴛᴀʙᴀsᴇ : 𝖬ᴏɴɢᴏ ᴅʙ**
