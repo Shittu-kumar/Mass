@@ -32,7 +32,7 @@ class Txt(object):
     SEND_SESSION_MSG = """
 **❪ 𝖲ᴇɴᴅ 𝖲ᴛʀɪɴɢ 𝖲ᴇssɪᴏɴ ❫**
 
-**☛ 𝖦ᴇɴᴇʀᴀᴛᴇ 𝖲ᴛʀɪɴɢ 𝖲ᴇssɪᴏɴ 𝖥ᴏʀᴍ <a href=t.me/king_string_session_bot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>**
+**☛ 𝖦ᴇɴᴇʀᴀᴛᴇ 𝖲ᴛʀɪɴɢ 𝖲ᴇssɪᴏɴ 𝖥ᴏʀᴍ <a href=t.me/StringFatherRobot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>**
 
 
 """
@@ -96,7 +96,7 @@ class Txt(object):
 
 <b>✦ » Tʜɪs Bᴏᴛ ɪs ғᴏʀ ᴛᴏ ʀᴇᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴏʀ ɢʀᴏᴜᴘ ɪɴ ᴍᴀss ʟᴇᴠᴇʟ ᴛʜʀᴏᴜɢʜ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴄᴄᴏᴜɴᴛ sᴇssɪᴏɴ sᴛʀɪɴɢ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ ɢᴇɴᴇʀᴀᴛᴇ ʙʏ :- <a href=t.me/king_string_session_bot>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b> 
 
-<b>✦ » Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ :- <a href=t.me/Thebhumihar>ᴀʟᴘʜᴀ ʙᴀʙʏ</a></b>
+<b>✦ » Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ :- <a href=t.me/Thebhumihar>𝘽𝙃𝙐𝙈𝙄𝙃𝘼𝙍</a></b>
 """
 
     HELP_MSG = """
@@ -132,7 +132,7 @@ class Txt(object):
 
     ABOUT_MSG = """
 **- 𝖬ʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>**
-**- 𝖢ʀᴇᴀᴛᴏʀ : <a href=t.me/Thebhumihar>⎯᪵፝֟፝𝘽𝙃𝙐𝙈𝙄𝙃𝘼𝙍/a>**
+**- 𝖢ʀᴇᴀᴛᴏʀ : <a href=t.me/Thebhumihar>𝘽𝙃𝙐𝙈𝙄𝙃𝘼𝙍/a>**
 **- 𝖫ɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ**
 **- 𝖫ᴀɴɢᴜᴀɢᴇ : 𝖯ʏᴛʜᴏɴ 𝟥**
 **- 𝖣ᴀᴛᴀʙᴀsᴇ : 𝖬ᴏɴɢᴏ ᴅʙ**
